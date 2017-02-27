@@ -1,0 +1,18 @@
+{
+	"name"        : "diggy/polylang-body-class",
+	"description" : "Adds prefixed and sanitized locale to body classes",
+	"keywords"    : ["wordpress", "polylang"],
+	"type"        : "wordpress-plugin",
+	"homepage"    : "https://github.com/diggy/polylang-body-class",
+	"license"     : "GPL2",
+	"authors"     : [
+		{
+			"name"    : "Peter J. Herrel",
+			"email"   : "peterherrel@gmail.com",
+			"homepage": "https://github.com/diggy"
+		}
+	],
+	"support"     : {
+		"issues": "https://github.com/diggy/polylang-body-class/issues"
+	}
+}
