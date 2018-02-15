@@ -4,7 +4,7 @@
 	"keywords"    : ["wordpress", "polylang"],
 	"type"        : "wordpress-plugin",
 	"homepage"    : "https://github.com/diggy/polylang-body-class",
-	"license"     : "GPL2",
+	"license"     : "GPL-2.0-or-later",
 	"authors"     : [
 		{
 			"name"    : "Peter J. Herrel",
